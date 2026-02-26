@@ -6,6 +6,22 @@ If you find this work useful, please cite it as:
 
 Nguyen, H. A., & Tura, A. *Seismic Traveltime Inversion with Quantum Annealing*. *Sci. Rep.* **15**, 17984 (2025). [https://doi.org/10.1038/s41598-025-01188-8](https://doi.org/10.1038/s41598-025-01188-8)
 
+```
+@article{Nguyen2025,
+  author  = {Nguyen, Hoang Anh and Tura, Ali},
+  title   = {Seismic traveltime inversion with quantum annealing},
+  journal = {Scientific Reports},
+  year    = {2025},
+  volume  = {15},
+  number  = {1},
+  pages   = {17984},
+  doi     = {10.1038/s41598-025-01188-8},
+  url     = {https://doi.org/10.1038/s41598-025-01188-8},
+  issn    = {2045-2322}
+}
+```
+
+
 ## Project Structure
 
 - `modules`: Contains core code for QUBO (Quadratic Unconstrained Binary Optimization) optimization, intial calculation and plotting
